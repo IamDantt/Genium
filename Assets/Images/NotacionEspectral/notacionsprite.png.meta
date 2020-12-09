@@ -1,0 +1,2875 @@
+fileFormatVersion: 2
+guid: d915d2ff354ecf14b86da32cbdf5332d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1576953202730330526
+    second: notacionsprite_0
+  - first:
+      213: 375225288248607276
+    second: notacionsprite_1
+  - first:
+      213: -6100354085477676899
+    second: notacionsprite_2
+  - first:
+      213: -415287004513983933
+    second: notacionsprite_3
+  - first:
+      213: -7136012339901808902
+    second: notacionsprite_4
+  - first:
+      213: -2883387873616857696
+    second: notacionsprite_5
+  - first:
+      213: -4380997032213381711
+    second: notacionsprite_6
+  - first:
+      213: -595425640992396994
+    second: notacionsprite_7
+  - first:
+      213: -2769808384496961825
+    second: notacionsprite_8
+  - first:
+      213: 7521245146637607003
+    second: notacionsprite_9
+  - first:
+      213: 8286634254609794777
+    second: notacionsprite_10
+  - first:
+      213: 42907935869898313
+    second: notacionsprite_11
+  - first:
+      213: 4266248899330869476
+    second: notacionsprite_12
+  - first:
+      213: 8476210623188391656
+    second: notacionsprite_13
+  - first:
+      213: -8299784868866722595
+    second: notacionsprite_14
+  - first:
+      213: -7782597919266864315
+    second: notacionsprite_15
+  - first:
+      213: 5645173228086157957
+    second: notacionsprite_16
+  - first:
+      213: 448631061578423313
+    second: notacionsprite_17
+  - first:
+      213: -5009306564993826167
+    second: notacionsprite_18
+  - first:
+      213: -5748231695040753540
+    second: notacionsprite_19
+  - first:
+      213: -3231857108614323267
+    second: notacionsprite_20
+  - first:
+      213: -6390573942095364541
+    second: notacionsprite_21
+  - first:
+      213: -2646071014936075585
+    second: notacionsprite_22
+  - first:
+      213: 8411982763056302924
+    second: notacionsprite_23
+  - first:
+      213: -1778774979251282419
+    second: notacionsprite_24
+  - first:
+      213: 8341252888755799153
+    second: notacionsprite_25
+  - first:
+      213: -186919804514797944
+    second: notacionsprite_26
+  - first:
+      213: 7892623200384687231
+    second: notacionsprite_27
+  - first:
+      213: 1509808442062069745
+    second: notacionsprite_28
+  - first:
+      213: 1258664337709095166
+    second: notacionsprite_29
+  - first:
+      213: -5938619045730098582
+    second: notacionsprite_30
+  - first:
+      213: 5812757695217017663
+    second: notacionsprite_31
+  - first:
+      213: -7667703594748434738
+    second: notacionsprite_32
+  - first:
+      213: -9094584418694614378
+    second: notacionsprite_33
+  - first:
+      213: -51249447624919199
+    second: notacionsprite_34
+  - first:
+      213: 4956065108507818536
+    second: notacionsprite_35
+  - first:
+      213: 1230908168247179913
+    second: notacionsprite_36
+  - first:
+      213: -5251660348285356977
+    second: notacionsprite_37
+  - first:
+      213: -8039368985876121166
+    second: notacionsprite_38
+  - first:
+      213: 5685219660214914067
+    second: notacionsprite_39
+  - first:
+      213: 6958997318712189942
+    second: notacionsprite_40
+  - first:
+      213: 8003741261324106091
+    second: notacionsprite_41
+  - first:
+      213: -1752191172532273460
+    second: notacionsprite_42
+  - first:
+      213: 4913647474351819540
+    second: notacionsprite_43
+  - first:
+      213: 3201737357205949641
+    second: notacionsprite_44
+  - first:
+      213: 5488241897887683465
+    second: notacionsprite_45
+  - first:
+      213: 9060708085519376899
+    second: notacionsprite_46
+  - first:
+      213: -6272325098259297943
+    second: notacionsprite_47
+  - first:
+      213: -7760647417304428293
+    second: notacionsprite_48
+  - first:
+      213: -3238270732507551303
+    second: notacionsprite_49
+  - first:
+      213: 2802183148262660342
+    second: notacionsprite_50
+  - first:
+      213: 6567628441344538829
+    second: notacionsprite_51
+  - first:
+      213: 4354517668355834930
+    second: notacionsprite_52
+  - first:
+      213: 6410885074589667519
+    second: notacionsprite_53
+  - first:
+      213: 8985068991169849755
+    second: notacionsprite_54
+  - first:
+      213: 5564445083622331083
+    second: notacionsprite_55
+  - first:
+      213: -3378001001689585971
+    second: notacionsprite_56
+  - first:
+      213: 1346739173702990896
+    second: notacionsprite_57
+  - first:
+      213: 1173701360076087534
+    second: notacionsprite_58
+  - first:
+      213: -2195095094297997841
+    second: notacionsprite_59
+  - first:
+      213: -821740820080103283
+    second: notacionsprite_60
+  - first:
+      213: -3391876867248267018
+    second: notacionsprite_61
+  - first:
+      213: 3526372296356860809
+    second: notacionsprite_62
+  - first:
+      213: 6387914088688791707
+    second: notacionsprite_63
+  - first:
+      213: -2650905248304991354
+    second: notacionsprite_64
+  - first:
+      213: 839618805533336661
+    second: notacionsprite_65
+  - first:
+      213: 2613614782179858776
+    second: notacionsprite_66
+  - first:
+      213: -8082343104306227067
+    second: notacionsprite_67
+  - first:
+      213: -3395317369785419510
+    second: notacionsprite_68
+  - first:
+      213: -6141887076441901400
+    second: notacionsprite_69
+  - first:
+      213: -1309489423163236548
+    second: notacionsprite_70
+  - first:
+      213: 3104680521350437112
+    second: notacionsprite_71
+  - first:
+      213: -1767433287329577361
+    second: notacionsprite_72
+  - first:
+      213: -2326238409137316624
+    second: notacionsprite_73
+  - first:
+      213: 3340362176973022940
+    second: notacionsprite_74
+  - first:
+      213: 5648581522349678112
+    second: notacionsprite_75
+  - first:
+      213: -6503952433229374042
+    second: notacionsprite_76
+  - first:
+      213: -121716180076171252
+    second: notacionsprite_77
+  - first:
+      213: -6815805065269548900
+    second: notacionsprite_78
+  - first:
+      213: -3407681817451547567
+    second: notacionsprite_79
+  - first:
+      213: 386039538803279068
+    second: notacionsprite_80
+  - first:
+      213: 6410599669907328569
+    second: notacionsprite_81
+  - first:
+      213: 8098043523782258136
+    second: notacionsprite_82
+  - first:
+      213: 2709794426543861467
+    second: notacionsprite_83
+  - first:
+      213: 5179773095283248867
+    second: notacionsprite_84
+  - first:
+      213: -1082148653933016221
+    second: notacionsprite_85
+  - first:
+      213: 2619139202492184356
+    second: notacionsprite_86
+  - first:
+      213: 3241924227681589962
+    second: notacionsprite_87
+  - first:
+      213: 3767327500600404164
+    second: notacionsprite_88
+  - first:
+      213: 6532361866063094210
+    second: notacionsprite_89
+  - first:
+      213: -8386182727074088310
+    second: notacionsprite_90
+  - first:
+      213: 1756492897455448534
+    second: notacionsprite_91
+  - first:
+      213: -4229312441800528850
+    second: notacionsprite_92
+  - first:
+      213: -678070052516817385
+    second: notacionsprite_93
+  - first:
+      213: 7724766403612309521
+    second: notacionsprite_94
+  - first:
+      213: -4526181553223591499
+    second: notacionsprite_95
+  - first:
+      213: 4585931331270863537
+    second: notacionsprite_96
+  - first:
+      213: 3477031639874214291
+    second: notacionsprite_97
+  - first:
+      213: -5241267679227546061
+    second: notacionsprite_98
+  - first:
+      213: -6181051319157623454
+    second: notacionsprite_99
+  - first:
+      213: -2898881076966511910
+    second: notacionsprite_100
+  - first:
+      213: -4301211524904277614
+    second: notacionsprite_101
+  - first:
+      213: -4683263607482993112
+    second: notacionsprite_102
+  - first:
+      213: 2350458321267562331
+    second: notacionsprite_103
+  - first:
+      213: -2688715372026508712
+    second: notacionsprite_104
+  - first:
+      213: 9182970281816359956
+    second: notacionsprite_105
+  - first:
+      213: -3739307036736790883
+    second: notacionsprite_106
+  - first:
+      213: -8398437013838147489
+    second: notacionsprite_107
+  - first:
+      213: -5037788938642177318
+    second: notacionsprite_108
+  - first:
+      213: -4630674620348837545
+    second: notacionsprite_109
+  - first:
+      213: -6063836681488263652
+    second: notacionsprite_110
+  - first:
+      213: -2042784461943037763
+    second: notacionsprite_111
+  - first:
+      213: -335610795090330619
+    second: notacionsprite_112
+  - first:
+      213: 7211975261860826659
+    second: notacionsprite_113
+  - first:
+      213: 760851967335179671
+    second: notacionsprite_114
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: notacionsprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1930
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eaf795b128f5d3449905750d2f6c636
+      internalID: -1576953202730330526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_1
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1930
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec193d614a88cf24ea69519698c204ee
+      internalID: 375225288248607276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_2
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 1930
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83bae4e75a4152046bce829ffda1f0cb
+      internalID: -6100354085477676899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_3
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 1930
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e75b808626b444b810492f9b6515c0
+      internalID: -415287004513983933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1861
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb5df24a9b59074a91c0f67b67983a1
+      internalID: -7136012339901808902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_5
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1861
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152d454f29185f644ac8544eff2a16d5
+      internalID: -2883387873616857696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_6
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 1861
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241c316abc7abfe43b5394150bf0af07
+      internalID: -4380997032213381711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_7
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 1861
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe2c06951435024f99bad008a25fd06
+      internalID: -595425640992396994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1792
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3eac706dc18a2c49bba6a3d2873b715
+      internalID: -2769808384496961825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_9
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1792
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4095ecb3ec92041afedf9f2679902b
+      internalID: 7521245146637607003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_10
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 1792
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec838a64c934ccf4d8a21b2006d1e792
+      internalID: 8286634254609794777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_11
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 1792
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b9313ca4b375a4696456decf93e383
+      internalID: 42907935869898313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1723
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad853d59d2b90634c82d3b8368738d7b
+      internalID: 4266248899330869476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_13
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1723
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03fb6120e26573b42935881090f1e8a1
+      internalID: 8476210623188391656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_14
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 1723
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afceebebfbf714042820036d859a2b85
+      internalID: -8299784868866722595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_15
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 1723
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dfd24a21dbbf92468db9d27124cc31d
+      internalID: -7782597919266864315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1654
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1de4b917a793a34aa811c2a238d1964
+      internalID: 5645173228086157957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_17
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1654
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df31864166efc8f45a69c1787cfebe0d
+      internalID: 448631061578423313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_18
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 1654
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54d3c2a1b920fc448e59dfc3ab9a0e5
+      internalID: -5009306564993826167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_19
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 1654
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8facd8d1a51b1644983b0c941e28607
+      internalID: -5748231695040753540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1585
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33145152b40e583438ac3470926e356c
+      internalID: -3231857108614323267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_21
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1585
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7cac811ccf03cc4a9682b1b16adbc68
+      internalID: -6390573942095364541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_22
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 1585
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21f92dcf77a93243886665a507e26c2
+      internalID: -2646071014936075585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_23
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 1585
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8258fcfa2a96b4daa74bb8f28a6d57
+      internalID: 8411982763056302924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1516
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b365b53395fb8b479a800cc4fbbcf5c
+      internalID: -1778774979251282419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_25
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1516
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16af9dc7c6ca38d4ab7da0500d313a64
+      internalID: 8341252888755799153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_26
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 1516
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2dd60a436563fb489ebf0a1a2aa3ee5
+      internalID: -186919804514797944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_27
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 1516
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2df0def96e25614994ee93a9ab821c6
+      internalID: 7892623200384687231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1447
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add40d0979bff8744a9169509a6b48a4
+      internalID: 1509808442062069745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_29
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1447
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce040295e7da93a4992d4e74ffa4a2ba
+      internalID: 1258664337709095166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_30
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 1447
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa08b6e7de8125458a843f0a0b74cd3
+      internalID: -5938619045730098582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_31
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 1447
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ea86e188ec3304ca8f9e48a23a3ba1
+      internalID: 5812757695217017663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1378
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d356074baef314b8fd2208dc752f78
+      internalID: -7667703594748434738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_33
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1378
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db345738620959042af9dd079b204bc0
+      internalID: -9094584418694614378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_34
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 1378
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2aebb08fcdfdce479b848d996d10a40
+      internalID: -51249447624919199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_35
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 1378
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180a17082a82856408746a2b0c315b90
+      internalID: 4956065108507818536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1309
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c084a7a20d1d984f81f3c97b429c8b1
+      internalID: 1230908168247179913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_37
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1309
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba119e263fe0fc3468ee80b75e560245
+      internalID: -5251660348285356977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_38
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 1309
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88bd5364cf6695d488e91638cc52106a
+      internalID: -8039368985876121166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_39
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 1309
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f22ce3e8d38e84ebc11f093fe34ee4
+      internalID: 5685219660214914067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1240
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b06fad77d037cf40910c2af0ce9422e
+      internalID: 6958997318712189942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_41
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1240
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c7996efe903c145989fe50c192e344
+      internalID: 8003741261324106091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_42
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 1240
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e397d9d6181d7408344ad9b6bc93cd
+      internalID: -1752191172532273460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_43
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 1240
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4202d686b067534cb3575646a66b71c
+      internalID: 4913647474351819540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1171
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993d03b54c7859d4ca3d481345d19087
+      internalID: 3201737357205949641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_45
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1171
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201fe982f04dbb342babd8e4df9d74c5
+      internalID: 5488241897887683465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_46
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 1171
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1152e0d7ea87a0241a643af24bb5e18b
+      internalID: 9060708085519376899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_47
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 1171
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2c3550b80758b48baa12d788fc0df1
+      internalID: -6272325098259297943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1102
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e4fa7adbbe0d84b9f3451f17492ff5
+      internalID: -7760647417304428293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_49
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1102
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45263d5519ce7534aa2b1460ee551636
+      internalID: -3238270732507551303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_50
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 1102
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f7b7e6b2d5ef344a618d1d712c47eb
+      internalID: 2802183148262660342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_51
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 1102
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b91bcadd1e657469111f5681ba8583
+      internalID: 6567628441344538829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1033
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab232e5141416ce4bb3a7ffce452075e
+      internalID: 4354517668355834930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_53
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1033
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba93101f1f7d2b4bb8d7189ecac3d76
+      internalID: 6410885074589667519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_54
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 1033
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9311e9ead43e1444bddda3de4433189
+      internalID: 8985068991169849755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_55
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 1033
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50510e3c87c74ac4e9eff1e6d7ceaa1c
+      internalID: 5564445083622331083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 964
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c929290b18163a04cbc43a27a9601b7d
+      internalID: -3378001001689585971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_57
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 964
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385a902d36945f647b4a194789ad7822
+      internalID: 1346739173702990896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_58
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 964
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16214541885eab24ca442bc6c3493be5
+      internalID: 1173701360076087534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_59
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 964
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbafe3176035f134caa4c596b4f4924c
+      internalID: -2195095094297997841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 895
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf192655147c1e4aadb3e159d6bdcd3
+      internalID: -821740820080103283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_61
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 895
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6840442408d5a4881d12ae5ce4f715
+      internalID: -3391876867248267018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_62
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 895
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a973768ca106de40ab5c6c88578872f
+      internalID: 3526372296356860809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_63
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 895
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1b291bd0a32f1409fe010257a17a9e
+      internalID: 6387914088688791707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 826
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e2f3a1c01f6b446a98c62c782fdc81
+      internalID: -2650905248304991354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_65
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 826
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41191ce2bb92b684daa2dcf07ab95d53
+      internalID: 839618805533336661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_66
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 826
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4117ef0b58a07b428dd9da7c2f38698
+      internalID: 2613614782179858776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_67
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 826
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e71a85f672decc4bbc74806d7b05f42
+      internalID: -8082343104306227067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 757
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd10d8121c5686f4e874e1edc85f1832
+      internalID: -3395317369785419510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_69
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 757
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75977ee6c0ec1a49af2d8ccc948b5de
+      internalID: -6141887076441901400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_70
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 757
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a6f6bb51d86864a9767106d8121cce
+      internalID: -1309489423163236548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_71
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 757
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a431b8399bb1e24cae3febb27adcdaf
+      internalID: 3104680521350437112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 688
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0635cd70a251903438d7606a55ee5e66
+      internalID: -1767433287329577361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_73
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 688
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302c882e34d29414f836ed579fff8270
+      internalID: -2326238409137316624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_74
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 688
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d43710374c2fb48817905409867346
+      internalID: 3340362176973022940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_75
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 688
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2f2b8c53c91f04dbd08f74aaaab61e
+      internalID: 5648581522349678112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 619
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e07d6e75533d9c45b4467337ac6165a
+      internalID: -6503952433229374042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_77
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 619
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c5b58b43977cc42aeedcb21f10f16b
+      internalID: -121716180076171252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_78
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 619
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda5963d6bd96644d80bcdb9b63d8d25
+      internalID: -6815805065269548900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_79
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 619
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec3c61a7c5c2b845a6dcb4d581aac45
+      internalID: -3407681817451547567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 550
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412b53f9698bedb44b22fec1d163d843
+      internalID: 386039538803279068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_81
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 550
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386df66b5d4f3ef49919a8a95eb0cd10
+      internalID: 6410599669907328569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_82
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 550
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9a0fc6528b82849a640773d1e2201a
+      internalID: 8098043523782258136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_83
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 550
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a0ad6277653be4ab783685a979589b
+      internalID: 2709794426543861467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 481
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45b5c783291e4c4697350d77180b868
+      internalID: 5179773095283248867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_85
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 481
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ee0074efaf9964a8efc4ba2a3cc0e0
+      internalID: -1082148653933016221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_86
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 481
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f027c4cb665ba04291d48d536628ea4
+      internalID: 2619139202492184356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_87
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 481
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dba4dc3b09ea314c9492235de81f2a9
+      internalID: 3241924227681589962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 412
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ad1ca6943f555418aa476e6f00aaf1
+      internalID: 3767327500600404164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_89
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 412
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df5c6f420014334c9414229d1a7f157
+      internalID: 6532361866063094210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_90
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 412
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95965afca31714c4ba87eb0a63377c38
+      internalID: -8386182727074088310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_91
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 412
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac61dc985102d2449a5b10435f6195ce
+      internalID: 1756492897455448534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 343
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bbb2cc863c7fba4ea8e8d78f3a43f28
+      internalID: -4229312441800528850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_93
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 343
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee908b922b71a2b4ba0d555e9a47e016
+      internalID: -678070052516817385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_94
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 343
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22313dd5b1fee5e42ab6619e888309d2
+      internalID: 7724766403612309521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_95
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 343
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2922b0284ddadec43bf28fbfd34bc3c9
+      internalID: -4526181553223591499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 274
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b95e1676a34c38499125b194cb6f550
+      internalID: 4585931331270863537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_97
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 274
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd55b8f4d849ea48914cd37a30cc30c
+      internalID: 3477031639874214291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_98
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 274
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4618e4f0ce12b74c9a054374563b86c
+      internalID: -5241267679227546061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_99
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 274
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feaf457b2136ce746aaaa60573dc413d
+      internalID: -6181051319157623454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 205
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be6953622d6ed849a81e6877553db04
+      internalID: -2898881076966511910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_101
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 205
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48968f73073b23f45bd230d61ef3715c
+      internalID: -4301211524904277614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_102
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 205
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd0a51ec9438534993de60921e0c70b
+      internalID: -4683263607482993112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_103
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 205
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa192e392a61ec040af7b87ec7d5b4de
+      internalID: 2350458321267562331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 136
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247fa14ec04d40744a8c19c1f9d44fa2
+      internalID: -2688715372026508712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_105
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 136
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7301abc298a3e4f9e695d48ebf40fd
+      internalID: 9182970281816359956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_106
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 136
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d78ab4ad6542448b3a9f8e5d090aad
+      internalID: -3739307036736790883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_107
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 136
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214858a4d3c270942ac69b74b5d6586d
+      internalID: -8398437013838147489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 67
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf0deb487f80ee429b07cd81fc77058
+      internalID: -5037788938642177318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_109
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 67
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ace408a340ff04b9ffa357c6b80fbc
+      internalID: -4630674620348837545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_110
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 67
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad060aa58f5c5c44adfe0d7523dbee5
+      internalID: -6063836681488263652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_111
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 67
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3edc645a92598d744a5e9b81bc87fe88
+      internalID: -2042784461943037763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e72f61f8f1e6fa49a5a40c331222165
+      internalID: -335610795090330619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_113
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 0
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8e617919ff1ba4f9dc8086334d0ba5
+      internalID: 7211975261860826659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notacionsprite_114
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 0
+        width: 466
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2458d3f1d66f12f4a91b7b2745df299e
+      internalID: 760851967335179671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

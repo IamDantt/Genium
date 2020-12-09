@@ -1,0 +1,523 @@
+fileFormatVersion: 2
+guid: 0b0fe6f8d59b45444a1e24ffc604fdbf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3329585791990526448
+    second: youwinsprite_0
+  - first:
+      213: -5700809077810124481
+    second: youwinsprite_1
+  - first:
+      213: -2502767446753335702
+    second: youwinsprite_2
+  - first:
+      213: -1906687351974269012
+    second: youwinsprite_3
+  - first:
+      213: -1442547203453078632
+    second: youwinsprite_4
+  - first:
+      213: -125921305122919154
+    second: youwinsprite_5
+  - first:
+      213: -3887360581055533230
+    second: youwinsprite_6
+  - first:
+      213: -4161748026112330070
+    second: youwinsprite_7
+  - first:
+      213: 620948448693074053
+    second: youwinsprite_8
+  - first:
+      213: 616679032759606767
+    second: youwinsprite_9
+  - first:
+      213: 4534676464303833205
+    second: youwinsprite_10
+  - first:
+      213: -4426283799631512815
+    second: youwinsprite_11
+  - first:
+      213: -6952936740507065913
+    second: youwinsprite_12
+  - first:
+      213: -8929219445462512020
+    second: youwinsprite_13
+  - first:
+      213: 2429490955845241238
+    second: youwinsprite_14
+  - first:
+      213: -4751225820326649836
+    second: youwinsprite_15
+  - first:
+      213: 6719042743811330226
+    second: youwinsprite_16
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: youwinsprite_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1280
+        width: 306
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1a0d8d60345bc4094838c1d90d53de
+      internalID: -3329585791990526448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youwinsprite_1
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1279
+        width: 307
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a7c2edcd25c414d8b7b593cef8193e
+      internalID: -5700809077810124481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youwinsprite_2
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1277
+        width: 308
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9a81057bd318b40b9ec17d47738f8b
+      internalID: -2502767446753335702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youwinsprite_3
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 1270
+        width: 320
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e42e1acdaa4e449befe6c81474e642
+      internalID: -1906687351974269012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youwinsprite_4
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 1263
+        width: 331
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7ca2304410daa46a0b626e97a04a86
+      internalID: -1442547203453078632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youwinsprite_5
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 843
+        width: 340
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517fa5ed8ffb85a4784faff066003b68
+      internalID: -125921305122919154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youwinsprite_6
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 837
+        width: 353
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f143f38c34a4ee946bdf4554e86ff8b6
+      internalID: -3887360581055533230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youwinsprite_7
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 834
+        width: 361
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a697d986c39885d44808730a639f5b59
+      internalID: -4161748026112330070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youwinsprite_8
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 833
+        width: 366
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ac537b737e2194f9037ae4db8b41eb
+      internalID: 620948448693074053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youwinsprite_9
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 834
+        width: 361
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7b1c0992056414b9d491d951a08ef8
+      internalID: 616679032759606767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youwinsprite_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 424
+        width: 353
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c0bb8a27bbe3a46b83c0f9fcb81302
+      internalID: 4534676464303833205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youwinsprite_11
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 430
+        width: 340
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7563f4f774b5957428d5dea522e4d56c
+      internalID: -4426283799631512815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youwinsprite_12
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 437
+        width: 331
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d789170daa6e9439aac9d60641804c
+      internalID: -6952936740507065913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youwinsprite_13
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 444
+        width: 320
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1830fce738897429467cb5641e814d
+      internalID: -8929219445462512020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youwinsprite_14
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 451
+        width: 308
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217317c74fd57434ab6ffc071bd75fee
+      internalID: 2429490955845241238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youwinsprite_15
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 40
+        width: 307
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd5b69e8369e274dad0d338c8e738c1
+      internalID: -4751225820326649836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youwinsprite_16
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 41
+        width: 306
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4551dd585f527740b80a9dd0a877600
+      internalID: 6719042743811330226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

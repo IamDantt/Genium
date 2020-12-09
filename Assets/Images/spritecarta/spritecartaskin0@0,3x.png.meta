@@ -1,0 +1,571 @@
+fileFormatVersion: 2
+guid: 40798280088c6d14db11a60cc7da7d5a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2890691442649315138
+    second: Marco_Frontal
+  - first:
+      213: -8840650204453189944
+    second: Marco_Tracero
+  - first:
+      213: 1964074739462762589
+    second: Esfera_Liquido
+  - first:
+      213: 2519907209093854244
+    second: TipoElementoMetal
+  - first:
+      213: 3171456189509257804
+    second: SimboloElemental1
+  - first:
+      213: -6007238298325144299
+    second: Region D
+  - first:
+      213: 3521968917003966844
+    second: Region F
+  - first:
+      213: 2707801247849203667
+    second: Fondo_Frontal
+  - first:
+      213: -4963851986606180947
+    second: Fondo_Trasero
+  - first:
+      213: 128755671211203031
+    second: Esfera_Metales
+  - first:
+      213: 8606581565224385917
+    second: TipoElementoLiquido
+  - first:
+      213: 4346105217889431317
+    second: SimboloElemental2
+  - first:
+      213: 7325602020210392917
+    second: Region P
+  - first:
+      213: 6193713064136273572
+    second: FondoTema
+  - first:
+      213: 1515012127434549806
+    second: paralogo
+  - first:
+      213: -2255761970893527195
+    second: Esfera_gases
+  - first:
+      213: -2135666005360720616
+    second: TipoElementoAire
+  - first:
+      213: 55759288577930770
+    second: SimboloElemental3
+  - first:
+      213: 7629041414872591181
+    second: Region S
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Marco_Frontal
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 840
+        width: 277
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe4aaf101b8e104994dd9cd9caecc47
+      internalID: -2890691442649315138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco_Tracero
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 839
+        width: 277
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930197fb4679f364e8fc64780e792a9d
+      internalID: -8840650204453189944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esfera_Liquido
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 842
+        width: 277
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fde7d8ad49aaa6499f6f6a885ed1071
+      internalID: 1964074739462762589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TipoElementoMetal
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 841
+        width: 277
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7eb81f218d98234894298b8f8c56680
+      internalID: 2519907209093854244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimboloElemental1
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 842
+        width: 277
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96efc4116a1297c4c8c7f4a6e5ad0fb5
+      internalID: 3171456189509257804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Region D
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 839
+        width: 277
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a814882c4630042858887ba7ac362a
+      internalID: -6007238298325144299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Region F
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 841
+        width: 277
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b402d99fc1a7a4587c22e23f8fde36
+      internalID: 3521968917003966844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondo_Frontal
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 428
+        width: 277
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3979ca3b3cbc4ac4eae1c06ecf7cf644
+      internalID: 2707801247849203667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondo_Trasero
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 428
+        width: 277
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c664789026900f24fb44a2e299691adc
+      internalID: -4963851986606180947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esfera_Metales
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 426
+        width: 277
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c400fe032303b41ab8fb00ae569337
+      internalID: 128755671211203031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TipoElementoLiquido
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 427
+        width: 277
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ddb8124986b194e84eb83add82cff9
+      internalID: 8606581565224385917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimboloElemental2
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 428
+        width: 277
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8809d62d40d354da81c97c37e28ac7
+      internalID: 4346105217889431317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Region P
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 426
+        width: 277
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90647bc397cb46c4692ac0ad15704026
+      internalID: 7325602020210392917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoTema
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 17
+        width: 277
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4962692ce2da5b04cba32abd576a8a68
+      internalID: 6193713064136273572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paralogo
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 16
+        width: 277
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29443e8a64b951c42bd3a67d103a30be
+      internalID: 1515012127434549806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esfera_gases
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 18
+        width: 277
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74199dd50eb0c074dad22c605697e5b0
+      internalID: -2255761970893527195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TipoElementoAire
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 17
+        width: 277
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a282285ad85b6bb41af8b7199425da22
+      internalID: -2135666005360720616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SimboloElemental3
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 16
+        width: 277
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db273937a36aaf4abbf1065faec6f49
+      internalID: 55759288577930770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Region S
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 15
+        width: 277
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691c05ac996c9e64f89ec32926694680
+      internalID: 7629041414872591181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

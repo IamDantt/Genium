@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: 0b83bfe7e77bb484290d98f703e332ab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9107211056279945819
+    second: spritemesaskin0@0,5x_0
+  - first:
+      213: -7500906282835482210
+    second: spritemesaskin0@0,5x_1
+  - first:
+      213: -4950757670702564296
+    second: spritemesaskin0@0,5x_2
+  - first:
+      213: -533821169024032180
+    second: spritemesaskin0@0,5x_3
+  - first:
+      213: -4119305633747832858
+    second: spritemesaskin0@0,5x_4
+  - first:
+      213: -2569961869904892421
+    second: spritemesaskin0@0,5x_5
+  - first:
+      213: -3076627212682739148
+    second: spritemesaskin0@0,5x_6
+  - first:
+      213: 5917228161204006612
+    second: spritemesaskin0@0,5x_8
+  - first:
+      213: 8696379454568884228
+    second: spritemesaskin0@0,5x_9
+  - first:
+      213: -5120568731402515469
+    second: spritemesaskin0@0,5x_10
+  - first:
+      213: 6507720288648598662
+    second: spritemesaskin0@0,5x_11
+  - first:
+      213: -1981013245951910184
+    second: spritemesaskin0@0,5x_7
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spritemesaskin0@0,5x_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1594
+        width: 895
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1bd0af9690df745852efba45ef1bca
+      internalID: -9107211056279945819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritemesaskin0@0,5x_1
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 1594
+        width: 895
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7796cc8ebafad9e498aa05b48a244afe
+      internalID: -7500906282835482210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritemesaskin0@0,5x_2
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 1590
+        width: 895
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b042ff6ba8b7210458e3de8c54f86f5c
+      internalID: -4950757670702564296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritemesaskin0@0,5x_3
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 1063
+        width: 895
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8047c081f903264389b3f25f85a573a
+      internalID: -533821169024032180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritemesaskin0@0,5x_4
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 534
+        width: 895
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e419d3257a2918a4a9b8c717664949d0
+      internalID: -4119305633747832858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritemesaskin0@0,5x_5
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 14
+        width: 895
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fcb01b09da02ac49a87ccba7a64bd4c
+      internalID: -2569961869904892421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritemesaskin0@0,5x_6
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 14
+        width: 895
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0440542200afbc645bb562d4204dc309
+      internalID: -3076627212682739148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritemesaskin0@0,5x_8
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 541
+        width: 895
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1fc0a3febc046442b947573f9a62432
+      internalID: 5917228161204006612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritemesaskin0@0,5x_9
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 14
+        width: 895
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cfa1e101b331d14b82066e224312742
+      internalID: 8696379454568884228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritemesaskin0@0,5x_10
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 541
+        width: 895
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d250fdff27f6484bade3b641472c302
+      internalID: -5120568731402515469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritemesaskin0@0,5x_11
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 1062
+        width: 895
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40aaad63c6670d74085f5e7d2a7af404
+      internalID: 6507720288648598662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritemesaskin0@0,5x_7
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1070
+        width: 895
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0d909e20dce0941a9bf749b68cd835
+      internalID: -1981013245951910184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

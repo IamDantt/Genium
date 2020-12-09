@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 92bfbe2e3f6294642bf0685fe2ab9a65, type: 3}
+  m_Name: Hidrogeno
+  m_EditorClassIdentifier: 
+  marco: {fileID: -2890691442649315138, guid: 40798280088c6d14db11a60cc7da7d5a, type: 3}
+  fondoCarta: {fileID: 2707801247849203667, guid: 40798280088c6d14db11a60cc7da7d5a,
+    type: 3}
+  fondoTema: {fileID: 6193713064136273572, guid: 40798280088c6d14db11a60cc7da7d5a,
+    type: 3}
+  simboloElemental: {fileID: 3171456189509257804, guid: 40798280088c6d14db11a60cc7da7d5a,
+    type: 3}
+  paraLogo: {fileID: 1515012127434549806, guid: 40798280088c6d14db11a60cc7da7d5a,
+    type: 3}
+  region: {fileID: 7629041414872591181, guid: 40798280088c6d14db11a60cc7da7d5a, type: 3}
+  tipoElemento: {fileID: -2135666005360720616, guid: 40798280088c6d14db11a60cc7da7d5a,
+    type: 3}
+  esfera: {fileID: 128755671211203031, guid: 40798280088c6d14db11a60cc7da7d5a, type: 3}
+  notacionEspectral: {fileID: -1576953202730330526, guid: d915d2ff354ecf14b86da32cbdf5332d,
+    type: 3}
+  icono: {fileID: -4361757633335601215, guid: 0ca1527d3b9ec9949b743a5d102eddc3, type: 3}
+  colorFamilia: {r: 0.99215686, g: 0.7490196, b: 0.43529412, a: 1}
+  numeroAtomico: 1
+  nombreElemento: Hidrogeno
+  simboloAtomico: H
+  pesoAtomico: 1.009

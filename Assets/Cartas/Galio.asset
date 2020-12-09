@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 92bfbe2e3f6294642bf0685fe2ab9a65, type: 3}
+  m_Name: Galio
+  m_EditorClassIdentifier: 
+  marco: {fileID: -2890691442649315138, guid: 40798280088c6d14db11a60cc7da7d5a, type: 3}
+  fondoCarta: {fileID: 2707801247849203667, guid: 40798280088c6d14db11a60cc7da7d5a,
+    type: 3}
+  fondoTema: {fileID: 6193713064136273572, guid: 40798280088c6d14db11a60cc7da7d5a,
+    type: 3}
+  simboloElemental: {fileID: 3171456189509257804, guid: 40798280088c6d14db11a60cc7da7d5a,
+    type: 3}
+  paraLogo: {fileID: 1515012127434549806, guid: 40798280088c6d14db11a60cc7da7d5a,
+    type: 3}
+  region: {fileID: 7325602020210392917, guid: 40798280088c6d14db11a60cc7da7d5a, type: 3}
+  tipoElemento: {fileID: 2519907209093854244, guid: 40798280088c6d14db11a60cc7da7d5a,
+    type: 3}
+  esfera: {fileID: -2255761970893527195, guid: 40798280088c6d14db11a60cc7da7d5a, type: 3}
+  notacionEspectral: {fileID: -5938619045730098582, guid: d915d2ff354ecf14b86da32cbdf5332d,
+    type: 3}
+  icono: {fileID: 10917, guid: 0000000000000000f000000000000000, type: 0}
+  colorFamilia: {r: 1, g: 1, b: 0.6, a: 1}
+  numeroAtomico: 31
+  nombreElemento: Galio
+  simboloAtomico: Ga
+  pesoAtomico: 69.723

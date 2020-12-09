@@ -1,0 +1,547 @@
+fileFormatVersion: 2
+guid: 2a4ee1024968773409524bf8207e42e3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 111119354559320887
+    second: youlosesprite_0
+  - first:
+      213: -3903702989349151318
+    second: youlosesprite_1
+  - first:
+      213: 7582205013478430774
+    second: youlosesprite_2
+  - first:
+      213: -5689959161536231575
+    second: youlosesprite_3
+  - first:
+      213: -3675182634341596694
+    second: youlosesprite_4
+  - first:
+      213: -3873499039192777683
+    second: youlosesprite_5
+  - first:
+      213: -9074255961759269420
+    second: youlosesprite_6
+  - first:
+      213: 3512839039400458667
+    second: youlosesprite_7
+  - first:
+      213: 6743578500576275606
+    second: youlosesprite_8
+  - first:
+      213: 996344932209389831
+    second: youlosesprite_9
+  - first:
+      213: -3026871056757463925
+    second: youlosesprite_10
+  - first:
+      213: 6798603468856807785
+    second: youlosesprite_11
+  - first:
+      213: 5165025119820385622
+    second: youlosesprite_12
+  - first:
+      213: 6912318308258849849
+    second: youlosesprite_13
+  - first:
+      213: -4529795013312852713
+    second: youlosesprite_14
+  - first:
+      213: 6424514129976012705
+    second: youlosesprite_15
+  - first:
+      213: -7669209145203455670
+    second: youlosesprite_16
+  - first:
+      213: 4290610206365666312
+    second: youlosesprite_17
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: youlosesprite_0
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1302
+        width: 68
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33083ea8a6d0a7e44a457219c32f35e3
+      internalID: 111119354559320887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youlosesprite_1
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 1086
+        width: 239
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4977470f76e3f45aeb8ba556dc3f93
+      internalID: -3903702989349151318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youlosesprite_2
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 1086
+        width: 239
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda50da00ecbea24cb7796635acafd53
+      internalID: 7582205013478430774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youlosesprite_3
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 1086
+        width: 239
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3312102bebf285e42a884d352ff0849a
+      internalID: -5689959161536231575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youlosesprite_4
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1086
+        width: 239
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6edb75df8267529409294832c8bb58ce
+      internalID: -3675182634341596694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youlosesprite_5
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1086
+        width: 239
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01296638dc419042925b44657311176
+      internalID: -3873499039192777683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youlosesprite_6
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 735
+        width: 239
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40eff7a3f76b0654bb6dddb697086583
+      internalID: -9074255961759269420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youlosesprite_7
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 735
+        width: 239
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bcd234aa23a1444291cda977d4e50a0
+      internalID: 3512839039400458667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youlosesprite_8
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 735
+        width: 239
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03cb9942aea632d4a948a35640afa4f7
+      internalID: 6743578500576275606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youlosesprite_9
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 735
+        width: 239
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fddac332e4c5934f8c4c2424a4b48b0
+      internalID: 996344932209389831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youlosesprite_10
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 735
+        width: 239
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c060f9cd4fd3b94b8ac28159300c3c0
+      internalID: -3026871056757463925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youlosesprite_11
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 386
+        width: 239
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72e40efae8b4f641bcdd8f7f1a5d505
+      internalID: 6798603468856807785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youlosesprite_12
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 386
+        width: 239
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36be3535cc6fa54481bde86298e2479
+      internalID: 5165025119820385622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youlosesprite_13
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 386
+        width: 239
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dbaaf2ae424e104b97b5be519e9fc62
+      internalID: 6912318308258849849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youlosesprite_14
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 386
+        width: 239
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f5120a9806a4846bb0dfa8bcc715eb
+      internalID: -4529795013312852713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youlosesprite_15
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 386
+        width: 239
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e231645f50a51b4e94f5cc76d6eb962
+      internalID: 6424514129976012705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youlosesprite_16
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 35
+        width: 239
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265e075e93a73d04f94edd2024e4b119
+      internalID: -7669209145203455670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: youlosesprite_17
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 35
+        width: 239
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4520f3bec827caf428b9fbf6e1e3aad6
+      internalID: 4290610206365666312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
